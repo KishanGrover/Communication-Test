@@ -1,0 +1,9 @@
+urllib3
+flask
+Werkzeug
+jsons
+regex
+pyspellchecker
+language_tool_python
+install-jdk
+datetime
